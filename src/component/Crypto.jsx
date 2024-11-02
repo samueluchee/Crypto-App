@@ -1,6 +1,6 @@
 import CryptoList from "./CryptoList";
 import Loading from "./Loading";
-import Button from "./button";
+import Button from "./Button";
 
 function Crypto({
   data,
